@@ -36,7 +36,7 @@ API_KEY = getenv("API_KEY", '30DxNexGenBotse110a2')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/spambotscoder/SHONAONLY",
+    "https://github.com/txsn4x/SHONAONLY",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
